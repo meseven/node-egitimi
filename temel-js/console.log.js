@@ -1,0 +1,1 @@
+console.log("selam nasılsın?", 2, "iyiyim");
