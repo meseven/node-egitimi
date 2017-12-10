@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc60338d-577e-4d9c-97f7-7097fb2473ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/arrow-functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/async-await-hata-yakalama.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/async-await-paralel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/async-await.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/destructing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/let-const.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/modules/require/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/modules/require/modul.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/promise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/spread-operator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/es6/template-riterals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/giris/helloworld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/create-http-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/io/filename-dirname.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/io/fs/dosya-silme/dosya-silme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/paketler/bagimlilik-yonetimi/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/paketler/yerel-ve-global-paketler/app1/app1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/paketler/yerel-ve-global-paketler/app2/app2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/merhaba-express/merhaba-express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/pug/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/pug/views/footer.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/pug/views/index.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/express/pug/views/other.pug" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,13 +24,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/express/pug/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Pug File" />
       </list>
     </option>
   </component>
@@ -57,14 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/temel-js/veri-turleri.js" />
-        <option value="$PROJECT_DIR$/temel-js/hata-yonetimi.js" />
-        <option value="$PROJECT_DIR$/temel-js/push.js" />
-        <option value="$PROJECT_DIR$/temel-js/use-strict.js" />
-        <option value="$PROJECT_DIR$/es6/let-const.js" />
-        <option value="$PROJECT_DIR$/es6/destructing.js" />
-        <option value="$PROJECT_DIR$/es6/spread-operator.js" />
-        <option value="$PROJECT_DIR$/es6/arrow-functions.js" />
         <option value="$PROJECT_DIR$/es6/template-riterals.js" />
         <option value="$PROJECT_DIR$/es6/test.js" />
         <option value="$PROJECT_DIR$/es6/modules/x_modulu.js" />
@@ -108,6 +100,14 @@
         <option value="$PROJECT_DIR$/http/serve-html.js" />
         <option value="$PROJECT_DIR$/http/http-istekleri.js" />
         <option value="$PROJECT_DIR$/http/route.js" />
+        <option value="$PROJECT_DIR$/express/index.js" />
+        <option value="$PROJECT_DIR$/express/demo.html" />
+        <option value="$PROJECT_DIR$/express/merhaba-express/merhaba-express.js" />
+        <option value="$PROJECT_DIR$/express/pug/index.pug" />
+        <option value="$PROJECT_DIR$/express/pug/index.js" />
+        <option value="$PROJECT_DIR$/express/pug/views/footer.pug" />
+        <option value="$PROJECT_DIR$/express/pug/views/other.pug" />
+        <option value="$PROJECT_DIR$/express/pug/views/index.pug" />
       </list>
     </option>
   </component>
@@ -125,6 +125,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/express/merhaba-express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/express/pug/node_modules" />
     <handled-path value="$PROJECT_DIR$/paketler/bagimlilik-yonetimi/node_modules" />
     <handled-path value="$PROJECT_DIR$/paketler/package.json-dosyasi/app2/node_modules" />
     <handled-path value="$PROJECT_DIR$/paketler/package.json-dosyasi/node_modules" />
@@ -133,8 +135,8 @@
     <handled-path value="$PROJECT_DIR$/paketler/yerel-ve-global-paketler/app1/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="38" />
-    <option name="y" value="-779" />
+    <option name="x" value="-1322" />
+    <option name="y" value="-11" />
     <option name="width" value="1323" />
     <option name="height" value="780" />
   </component>
@@ -163,6 +165,17 @@
               <item name="node-egitimi" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-egitimi" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="node-egitimi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-egitimi" type="462c0819:PsiDirectoryNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node-egitimi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-egitimi" type="462c0819:PsiDirectoryNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -183,6 +196,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/express/pug/views" />
       <recent name="$PROJECT_DIR$/es6" />
       <recent name="$PROJECT_DIR$/temel-js" />
     </key>
@@ -229,12 +243,12 @@
       <workItem from="1512506108902" duration="21016000" />
       <workItem from="1512680226461" duration="1355000" />
       <workItem from="1512749765520" duration="5299000" />
-      <workItem from="1512824505965" duration="13605000" />
+      <workItem from="1512824505965" duration="20177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79888000" />
+    <option name="totallyTimeSpent" value="86460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,17 +260,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="-779" width="1323" height="780" extended-state="6" />
+    <frame x="-1322" y="-11" width="1323" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1587057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31104198" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1587057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -265,7 +280,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -330,77 +344,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/temel-js/veri-turleri.js" />
-    <entry file="file://$PROJECT_DIR$/temel-js/hata-yonetimi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temel-js/use-strict.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/let-const.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/destructing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/spread-operator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/arrow-functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/template-riterals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/promise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/async-await.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es6/async-await-paralel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/es6/async-await-hata-yakalama.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -625,14 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/http/serve-html.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/http/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -651,16 +586,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/http/create-http-server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/serve-html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/http/route.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/merhaba-express/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/merhaba-express/merhaba-express.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/veiews/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/views/footer.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/views/other.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/pug/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
