@@ -2,17 +2,11 @@ const express = require('express');
 const app = express();
 
 app.set('view engine', 'pug');
+app.use(express.static('public'));
+app.use(express.static('other-public'));
 
 app.get('/', (req, res) => {
-    res.render('index', { name: 'mehmet', job: 'developer' });
-});
-
-app.get('/home', (req, res) => {
-    res.render('home');
-});
-
-app.get('/contact', (req, res) => {
-    res.render('contact');
+    res.render('index');
 });
 
 app.listen(3000, () => {
