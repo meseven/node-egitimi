@@ -11,8 +11,8 @@ const Schema = mongoose.Schema;
 const BookSchema = new Schema({
     title: {
         type: String,
-        required: true,
-        unique: true
+        // required: true,
+        // unique: true
     },
     comments: [{ message: String }],
     meta: {
