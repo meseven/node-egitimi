@@ -11,10 +11,17 @@ const Schema = mongoose.Schema;
 const BookSchema = new Schema({
     title: {
         type: String,
-        // required: true,
+        required: true,
+        maxlength: [20, '`{PATH}` alanı (`{VALUE}`), ({MAXLENGTH}) karakterden küçük olmalıdır.'],
+        minlength: [2, '`{PATH}` alanı (`{VALUE}`), ({MINLENGTH}) karakterden büyük olmalıdır.']
         // unique: true
     },
     comments: [{ message: String }],
+    year:{
+      type: Number,
+      max: 2030,
+      min: 1700
+    },
     meta: {
         votes: Number,
         favs: Number

@@ -8,6 +8,7 @@ const Book = require('../models/Book');
 router.post('/new', function(req, res, next) {
     const book = new Book({
         title: "Üçüncü",
+        year: 1600,
         published: true,
         comments: [
             { message: "Harika bir kitap." },
