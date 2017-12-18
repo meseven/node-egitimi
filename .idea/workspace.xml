@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc60338d-577e-4d9c-97f7-7097fb2473ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mongodb/models/Book.js" afterPath="$PROJECT_DIR$/mongodb/models/Book.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mongodb/routes/books.js" afterPath="$PROJECT_DIR$/mongodb/routes/books.js" />
-    </list>
+    <list default="true" id="fc60338d-577e-4d9c-97f7-7097fb2473ac" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,8 +18,8 @@
       <file leaf-file-name="Book.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mongodb/models/Book.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="185">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -147,7 +143,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="39" />
-    <option name="y" value="-1084" />
+    <option name="y" value="-4" />
     <option name="width" value="1321" />
     <option name="height" value="772" />
   </component>
@@ -204,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node-egitimi-movie-api" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -267,12 +263,12 @@
       <workItem from="1512918901144" duration="1430000" />
       <workItem from="1512985738675" duration="1103000" />
       <workItem from="1512990027675" duration="26917000" />
-      <workItem from="1513360019778" duration="683000" />
+      <workItem from="1513360019778" duration="723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128220000" />
+    <option name="totallyTimeSpent" value="128260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,7 +280,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="-1084" width="1321" height="772" extended-state="6" />
+    <frame x="39" y="-4" width="1321" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1587057" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -683,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mongodb/models/Book.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="185">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
       </provider>
