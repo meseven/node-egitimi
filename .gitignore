@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea
+load-balancing/**/.vagrant
 
 # Runtime data
 pids
