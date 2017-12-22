@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Websocket</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://localhost:3000/socket.io/socket.io.js"></script>
+    <script>
+        $(() => {
+           const socket = io.connect('http://localhost:3000/93creative');
+
+           $('button').on('click', () => {
+               socket.emit('isim yaz');
+           });
+
+           socket.on('herkese gonder', (data) => {
+               $('body').append(` ${ data.name }  <br>`);
+           });
+        });
+    </script>
+</head>
+<body>
+
+<button>Merhaba</button>
+
+</body>
+</html>
