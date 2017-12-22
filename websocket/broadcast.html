@@ -9,19 +9,26 @@
         $(() => {
             const socket = io.connect('http://localhost:3000/');
 
-            /*socket.on('merhaba de', (data) => {
-                $('#merhaba').append('merhaba ' +  data.country + '<br>');
-            });*/
+            socket.on('user', (data) => {
+                $('.users').append('<li><b>' + data.name + '</b> bağlandı</li>');
+            });
 
             $('button').on('click', () => {
-                socket.emit('selam ver', { city: 'Bursa', name: 'Mehmet' });
+                $('.users').append('<li>Bağlandınız.</li>');
+                socket.emit('new-user', { name: $('#name').val() });
             });
         });
     </script>
 </head>
 <body>
-    Merhaba ben html dosyası.
-    <button>Selam Ver</button>
-    <div id="merhaba"></div>
+
+<input id="name" />
+<button>Bağlan</button>
+
+</br>
+<ul class="users">
+
+</ul>
+
 </body>
 </html>
