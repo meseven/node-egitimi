@@ -7,6 +7,18 @@ server.listen(3000);
 
 const io = socketio.listen(server);
 io.on('connection', (socket) => {
+
+    /*
+    console.log(socket.id);
+
+    socket.join('room 1');
+    socket.join('room 2');
+    socket.join('room 3', () => {
+        const rooms = Object.keys(socket.rooms);
+        console.log(rooms);
+    });
+    */
+
     socket.on('joinRoom', (data) => {
        socket.join(data.name, () => {
            io.to(data.name).emit('new join', { count: getOnlineCount(io, data) });
