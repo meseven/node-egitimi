@@ -1,4 +1,4 @@
-# node-egitimi
+# Sıfırdan Her Yönüyle JavaScript & Node.JS Eğitimi
 
 Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle Node.JS"](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS49M) adlı eğitim setinde yazılan kaynak kodları barındıran repodur.
 
