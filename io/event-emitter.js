@@ -1,6 +1,6 @@
 const events = require('events');
 const eventEmitter = events.EventEmitter;
-const emitter = eventEmitter();
+const emitter = new eventEmitter();
 
 /*eventEmitter.on('selamla', (object) => {
    console.log(`merhaba ${object.name} ${object.surname}`);
@@ -8,11 +8,11 @@ const emitter = eventEmitter();
 
 eventEmitter.emit('selamla', { name: 'mehmet', surname: 'seven' });*/
 
-eventEmitter.once('merhabaDe', () => {
-   console.log('merhaba');
+emitter.once('merhabaDe', () => {
+    console.log('merhaba');
 });
 
-eventEmitter.emit('merhabaDe');
-eventEmitter.emit('merhabaDe');
+emitter.emit('merhabaDe');
+emitter.emit('merhabaDe');
 
 console.log(eventEmitter.listenerCount(emitter, 'merhabaDe'));
