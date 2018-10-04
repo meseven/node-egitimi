@@ -19,59 +19,59 @@ Bu sette Node.JS nedir dedikten sonra, bir iki örnekle konu kapanmayacak. Yani 
 
 
 
-# JavaScript
+## JavaScript
 Bir kere iyi bir JavaScript temeli atacağınıza inanıyorum. Node.JS ile çalışırken JavaScript'in çalışma mantığına hakim olmak çok önemli. JavaScript'in çalışma mantığına hakim olmadan Node.JS ile geliştirme yapmaya çalışan nice yiğitler heba oldu gitti bu yolda. JavaScript'in diğer dillerden farkı üstüne basıla basıla "Temel Javascript" bölümünde anlatıldı.
 
 
 
-# EcmaScript 6
+## EcmaScript 6
 EcmaScript'in ne olduğunu öğrenecek ve EcmaScript 6 ile birlikte gelen yeni özellikleri anlamaya çalışacağız. Let, Const, Promise, Async / Await, Inter Milan bunları uzun uzun konuşacağız.
 
 
 
-# Express Framework
+## Express Framework
 Node.JS dünyasının en popüler framework'ü şüphesiz Express. Geliştirme ortamını hızlıca ayağa kaldırabilen ve hafif yapısıyla işleri epey kolaylaştıran Express Framework neyin ne'si kimin fesi anlayacağız. Pug Tema Motoru, Routing ve Middleware kavramlarının ne olduğunu burada öğreneceğiz.
 
 
 
-# MongoDB
+## MongoDB
 NoSQL'in ne olduğunu konuşacak ve günümüzün en popüler NoSQL veritabanlarından biri olan MongoDB'yi anlamaya çalışıp ne zaman ihtiyacımız olduğunu öğreneceğiz.
 
 
 
-# Restful API Geliştirme Projesi
+## Restful API Geliştirme Projesi
 MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile Restful API geliştirme projesi yapacağız. Bu bölüm bir proje olacak. Express'i ve MongoDB'yi daha iyi bir şekilde burada anlayabileceğinizi düşünüyorum. Bu projede oturum yönetimini JSON Web Token (JWT) ile yapacağız.
 
 
 
-# Mocha ve Chai ile Unit Testing
+## Mocha ve Chai ile Unit Testing
 Ülkemizde pek yazılmasa da, yazılım kalitesini belirleyen olmazsa olmaz kavramlardan biri tartışmasız yazılım testleridir. Biz de bu eğitim içinde geliştirmiş olduğumuz Restful API için Mocha ve Chai ile Unit Testler yazacağız. Elbette yazmakla kalmayacak neden test yazmamız gerektiğini de öğreneceğiz.
 
 
 
-# Deploy
+## Deploy
 Node.JS'e yeni başlayanların en çok zorlandığı konulardan biri yazmış oldukları uygulamayı deploy etmek. PaaS servislerinden Heroku ve IaaS servislerinden DigitalOcean için deploy sürecinin nasıl olduğunu kavrayacağız.
 
 
 
-# Travis CI ile Continuos Integration (Sürekli Entegrasyon)
+## Travis CI ile Continuos Integration (Sürekli Entegrasyon)
 Continuos Integration nedir? Neden ihtiyaç duyarız sorularını yanıtlayacağız. Travis CI ile sürekli entegrasyon işlemlerini anlayacağız. Travis CI ve GitHub aracılığı ile otomatik test ve deploy sürecini öğreneceğiz.
 
 
 
-# Nginx Reverse Proxy ile Load Balancing
+## Nginx Reverse Proxy ile Load Balancing
 Günümüzün modern web uygulamalarının olmazsa olmaz kavramlarından biri şüphesiz Load Balancing. Bin kişi girince çöken siteyi ne edeyim ben? Yok mu bunun bir çıkar yolu? Var babacım, gelen yükü farklı klon sunuculara böleceğiz. Bunu da Nginx ile yapacağız.
 
 Bu bölümde Nginx'in ne olduğunu anlayacak ve Node.JS ile nasıl bir arada kullanabileceğimizi öğreneceğiz. Uygulamamızın yükünü farklı sunuculara dağıtacağız, kafamız rahat olacak ve peşin satan esnaf oturuşu yapacağız.
 
 
 
-# Vagrant
+## Vagrant
 "Nginx ile Load Balancing" bölümünde sunucularımızı Vagrant ile ayağa kaldıracağız. "Vagrant nedir? Nasıl kullanılır? Vagrant yapılandırması nasıl yapılır?" gibi sorulara cevap bulabileceksiniz.
 
 
 
-# Redis
+## Redis
 Öyle zannediyorum ki, Redis'in nam'ını sağır sultan bile duymuştur. Bir NoSQL veritabanı olan Redis'e arkadaşları "Hız Canavarı" diyor. Bu canavarı eğitimimizde kendi doğal ortamında göreceğiz. Direkt uygulama üzerinde. Hem de chat uygulaması üzerinde.
 
 
