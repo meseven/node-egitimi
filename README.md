@@ -19,32 +19,32 @@ Bu sette Node.JS nedir dedikten sonra, bir iki örnekle konu kapanmayacak. Yani 
 
 
 
-# JavaScript
+# JavaScript
 Bir kere iyi bir JavaScript temeli atacağınıza inanıyorum. Node.JS ile çalışırken JavaScript'in çalışma mantığına hakim olmak çok önemli. JavaScript'in çalışma mantığına hakim olmadan Node.JS ile geliştirme yapmaya çalışan nice yiğitler heba oldu gitti bu yolda. JavaScript'in diğer dillerden farkı üstüne basıla basıla "Temel Javascript" bölümünde anlatıldı.
 
 
 
-# EcmaScript 6
+# EcmaScript 6
 EcmaScript'in ne olduğunu öğrenecek ve EcmaScript 6 ile birlikte gelen yeni özellikleri anlamaya çalışacağız. Let, Const, Promise, Async / Await, Inter Milan bunları uzun uzun konuşacağız.
 
 
 
-# Express Framework
+# Express Framework
 Node.JS dünyasının en popüler framework'ü şüphesiz Express. Geliştirme ortamını hızlıca ayağa kaldırabilen ve hafif yapısıyla işleri epey kolaylaştıran Express Framework neyin ne'si kimin fesi anlayacağız. Pug Tema Motoru, Routing ve Middleware kavramlarının ne olduğunu burada öğreneceğiz.
 
 
 
-# MongoDB
+# MongoDB
 NoSQL'in ne olduğunu konuşacak ve günümüzün en popüler NoSQL veritabanlarından biri olan MongoDB'yi anlamaya çalışıp ne zaman ihtiyacımız olduğunu öğreneceğiz.
 
 
 
-# Restful API Geliştirme Projesi
+# Restful API Geliştirme Projesi
 MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile Restful API geliştirme projesi yapacağız. Bu bölüm bir proje olacak. Express'i ve MongoDB'yi daha iyi bir şekilde burada anlayabileceğinizi düşünüyorum. Bu projede oturum yönetimini JSON Web Token (JWT) ile yapacağız.
 
 
 
-# Mocha ve Chai ile Unit Testing
+# Mocha ve Chai ile Unit Testing
 Ülkemizde pek yazılmasa da, yazılım kalitesini belirleyen olmazsa olmaz kavramlardan biri tartışmasız yazılım testleridir. Biz de bu eğitim içinde geliştirmiş olduğumuz Restful API için Mocha ve Chai ile Unit Testler yazacağız. Elbette yazmakla kalmayacak neden test yazmamız gerektiğini de öğreneceğiz.
 
 
@@ -71,7 +71,7 @@ Bu bölümde Nginx'in ne olduğunu anlayacak ve Node.JS ile nasıl bir arada kul
 
 
 
-# Redis
+# Redis
 Öyle zannediyorum ki, Redis'in nam'ını sağır sultan bile duymuştur. Bir NoSQL veritabanı olan Redis'e arkadaşları "Hız Canavarı" diyor. Bu canavarı eğitimimizde kendi doğal ortamında göreceğiz. Direkt uygulama üzerinde. Hem de chat uygulaması üzerinde.
 
 
