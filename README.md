@@ -43,11 +43,6 @@ NoSQL'in ne olduğunu konuşacak ve günümüzün en popüler NoSQL veritabanlar
 
 
 
-## Restful API Geliştirme Projesi
-MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile Restful API geliştirme projesi yapacağız. Bu bölüm bir proje olacak. Express'i ve MongoDB'yi daha iyi bir şekilde burada anlayabileceğinizi düşünüyorum. Bu projede oturum yönetimini JSON Web Token (JWT) ile yapacağız.
-
-
-
 ## Mocha ve Chai ile Unit Testing
 Ülkemizde pek yazılmasa da, yazılım kalitesini belirleyen olmazsa olmaz kavramlardan biri tartışmasız yazılım testleridir. Biz de bu eğitim içinde geliştirmiş olduğumuz Restful API için Mocha ve Chai ile Unit Testler yazacağız. Elbette yazmakla kalmayacak neden test yazmamız gerektiğini de öğreneceğiz.
 
@@ -81,12 +76,43 @@ Bu bölümde Nginx'in ne olduğunu anlayacak ve Node.JS ile nasıl bir arada kul
 
 
 # Projeler
+Bu kurs içerisinde üç adet büyük proje geliştiriyoruz.
 
-- Bölüm 14:  Express ve MongoDB ile Restful API Geliştirme Projesi
+## Proje 1:  Express ve MongoDB ile Restful API Geliştirme Projesi
+MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile Restful API geliştirme projesi yapacağız. Bu bölüm bir proje olacak. Express'i ve MongoDB'yi daha iyi bir şekilde burada anlayabileceğinizi düşünüyorum. Bu projede oturum yönetimini JSON Web Token (JWT) ile yapacağız.
+**Repo:** [Tıklayın](https://github.com/meseven/node-egitimi-movie-api)
 
-- Bölüm 22:  Socket.IO ve Angular.JS ile Real-time "Live Balls" Uygulaması
 
-- Bölüm 23:  Socket.IO ve Redis ile Gelişmiş Chat Sistemi
+
+## Proje 2:  Socket.IO ve Angular.JS ile Real-time "Live Balls" Uygulaması
+
+**Repo:** [Tıklayın](https://github.com/meseven/socketio-live-balls)
+
+:hearts: YouTube Trailer: [Tıklayın](https://www.youtube.com/watch?v=x1ZURfr95qM)
+
+:space_invader: Live demo on heroku: [Tıklayın](https://socketio-live-balls.herokuapp.com/)
+
+[![Socket.io live balls](https://s3.amazonaws.com/mseven-general/socketio-live-balls-github-repo.jpg)](https://www.youtube.com/watch?v=x1ZURfr95qM)
+
+
+## Proje 3:  Socket.IO ve Redis ile Gelişmiş Chat Sistemi
+
+**Repo:** [Tıklayın](https://github.com/meseven/thechatfather)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Müfredat
 
