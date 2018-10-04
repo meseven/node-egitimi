@@ -42,10 +42,10 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
 ### Müfredat
 
 * **Bölüm 1: Giriş**
- * **Ders 1:** Event driven / Non blocking nedir ?
- * **Ders 2:** Node.JS nedir?
- * **Ders 3:** Node.JS nasıl çalışır?
- * **Ders 4:** Hello world uygulaması
+    * **Ders 1:** Event driven / Non blocking nedir ?
+    * **Ders 2:** Node.JS nedir?
+    * **Ders 3:** Node.JS nasıl çalışır?
+    * **Ders 4:** Hello world uygulaması
 * **Bölüm 2: IDE Seçimi**
  * **Ders 5:** WebStorm
 * **Bölüm 3: Node.JS Kurulumu**
