@@ -46,12 +46,15 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 2:** Node.JS nedir?
     * **Ders 3:** Node.JS nasıl çalışır?
     * **Ders 4:** Hello world uygulaması
+
 * **Bölüm 2: IDE Seçimi**
     * **Ders 5:** WebStorm
+
 * **Bölüm 3: Node.JS Kurulumu**
     * **Ders 6:** Linux için
     * **Ders 7:** Mac için
     * **Ders 8:** Windows için
+
 * **Bölüm 4: Temel JavaScript**
     * **Ders 9:** console.log() metodu
     * **Ders 10:** Değişkenler
@@ -75,6 +78,7 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 28:** Diziler
     * **Ders 29:** Javascript istisna yönetimi (try, catch, throw, finally)
     * **Ders 30:** "use strict" ifadesi
+
 * **Bölüm 5: EcmaScript 6**
     * **Ders 31:** EcmaScript nedir?
     * **Ders 32:** WebStorm üzerinde ES6'yı aktive etme
@@ -87,8 +91,10 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 39:** Promise yapısı
     * **Ders 40:** Async / Await
     * **Ders 41:** Async / Await hata yakalama
+
 * **Bölüm 6: Modül Sistemi**
     * **Ders 42:** Module.exports ve require
+
 * **Bölüm 7: Node Paket Yöneticisi (NPM)**
     * **Ders 43:** Paket nedir?
     * **Ders 44:** Paket yükleme ve kullanma
@@ -97,23 +103,27 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 47:** Bağımlılık yönetimi
     * **Ders 48:** Script tanımlama
     * **Ders 49:** Paket kaldırma
+
 * **Bölüm 8: Events (Olaylar) ve I/O İşlemleri**
     * **Ders 50:** Olaylar (Events & Event Emitter)
     * **Ders 51:** __filename ve __dirname
     * **Ders 52:** Dosya okuma
     * **Ders 53:** Dosya oluşturma ve yazma
     * **Ders 54:** Dosya silme
+
 * **Bölüm 9: Node.JS ve HTTP**
     * **Ders 55:** Basit bir HTTP sunucusu oluşturmak
     * **Ders 56:** Nodemon nedir? Nasıl kullanılır?
     * **Ders 57:** Bir HTML dökümanını serve etmek
     * **Ders 58:** HTTP metodları
     * **Ders 59:** Basit bir yönlendirme yapısı
+
 * **Bölüm 10: Streams (Yayınlar)**
     * **Ders 60:** Stream nedir?
     * **Ders 61:** Okunabilir Stream oluşturmak (fs.createReadStream())
     * **Ders 62:** Yazılabilir Stream oluşturmak (fs.createWriteStream())
     * **Ders 63:** Bellek performans testleri (Stream kullanımından önce ve sonra)
+
 * **Bölüm 11: Express Framework**
     * **Ders 64:** Express nedir?
     * **Ders 65:** Merhaba Express
@@ -134,6 +144,7 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 80:** Ara katman (Mİddleware)-2
     * **Ders 81:** Express hata yönetimi
     * **Ders 82:** Express Uygulama Oluşturucu
+
 * **Bölüm 12: NoSQL ve MongoDB**
     * **Ders 83:** NoSQL nedir? Ne zaman ihtiyaç duyarız?
     * **Ders 84:** MongoDB kurulumu
@@ -161,6 +172,7 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 106:** Aggregate: $lookup operatörü ile join işlemleri
     * **Ders 107:** $exists operatörü
     * **Ders 108:** Şemalarda validasyon işlemleri
+
 * **Bölüm 13: Express ile Restful API Geliştirme Projesi**
     * **Ders 109:** Movie API tanıtımı
     * **Ders 110:** Git ve Github ayarları
@@ -189,12 +201,14 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 133:** Tüm filmleri listeleyen endpoint'in düzenlenmesi (/api/movies [GET])
     * **Ders 134:** Movie şeması validasyon işlemleri
     * **Ders 135:** Director şeması validasyon işlemleri
+
 * **Bölüm 14: JSON Web Token (JWT) İle Oturum Yönetimi**
     * **Ders 136:** Kullanıcı kayıt endpoint'inin yazılması (/register [POST])
     * **Ders 137:** Bcrypt ile parola şifreleme
     * **Ders 138:** Json Web Token(JWT) nedir? Nasıl çalışır?
     * **Ders 139:** Jsonwebtoken ile token oluşturma servisinin yazılması
     * **Ders 140:** Token verify middleware'ının yazılması
+
 * **Bölüm 15: Restful API için Unit Test Yazmak (Mocha & Chai)**
     * **Ders 141:** Neden test yazarız?
     * **Ders 142:** Test ortamının hazırlanması ve ilk test kodu (describe ve it kavramları)
@@ -204,16 +218,19 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 146:** /api/movies/:movie_id  [GET] testinin yazılması
     * **Ders 147:** /api/movies/:movie_id [PUT] testinin yazılması
     * **Ders 148:** /api/movies/:movie_id [DELETE] testinin yazılması
+
 * **Bölüm 16: Heroku ve Deploy İşlemleri**
     * **Ders 149:** Heroku nedir? IaaS nedir? PaaS nedir?
     * **Ders 150:** Heroku deploy işlemleri
     * **Ders 151:** Heroku web arayüzü
+
 * **Bölüm 17: Travis CI ile Sürekli Entegrasyon (Continuous Integration)**
     * **Ders 152:** Sürekli entegrasyon nedir?
     * **Ders 153:** Travis CI nedir? Nasıl kullanılır?
     * **Ders 154:** Travis CI ve Github ile otomatik deploy işlemleri
     * **Ders 155:** Travis CI'de Cron Jobs ve Build Trigger oluşturma
     * **Ders 156:** Github üzerinde build durumunun gösterilmesi
+
 * **Bölüm 18: DigitalOcean üzerine Deploy İşlemleri**
     * **Ders 157:** DigitalOcean nedir? Droplet nasıl oluşturulur?
     * **Ders 158:** Sunucuya Node.JS kurulumu
@@ -221,6 +238,7 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 160:** PM2 nedir? Nasıl kullanılır?
     * **Ders 161:** Bazı PM2 komutları
     * **Ders 162:** Nginx Reverse Proxy ile port yönlendirme
+
 * **Bölüm 19: Nginx ile Load Balancing (Yük Dengeleme)**
     * **Ders 163:** Yük dengeleme nedir? Neler yapacağız?
     * **Ders 164:** Vagrant ve VirtualBox kurulumları
@@ -230,6 +248,7 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 168:** Uygulama sunucularının ayağa kaldırılması
     * **Ders 169:** Nginx Load Balance konfigürasyonunun yapılması
     * **Ders 170:** Load Balancing performans testleri (Apache Benchmark Tool)
+
 * **Bölüm 20: Websocket Temelleri ve Socket.IO**
     * **Ders 171:** Websocket nedir?
     * **Ders 172:** Server ve Client arasında TCP bağlantısı oluşturmak
@@ -247,6 +266,7 @@ Günümüz web uygulamalarının olmazsa olmaz kavramlarından biri, Load Balanc
     * **Ders 184:** Bağlı olunan oda(room)ları listelemek
     * **Ders 185:** Socket.IO Client:  reconnectionAttempts, reconnectionDelay, reconnection
     * **Ders 186:** Socket.IO Client:  reconnect_attempt, reconnect_error ve reconnect event'ları
+
 * **Bölüm 21: Socket.IO ve Redis ile Gelişmiş Chat Sistemi**
     * Kullanıcıların sohbet odası oluşturabilme özelliği.
     * Sadece belli odaya mesaj gönderebilme özelliği.
