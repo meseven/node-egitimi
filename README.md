@@ -2,16 +2,20 @@
 
 Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle JavaScript & Node.JS"](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS49M) adlı eğitim setinde yazılan kaynak kodları barındıran repodur.
 
+**Kurs Linki:** [Tıklayın](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS24M)
+
+**Kupon Kodu:** NDJS24M
+
+**Trailer:** [Tıklayın](https://www.youtube.com/watch?v=If5ZhuSykrw)
+
+
 [![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)](https://www.udemy.com/nodejs-egitimi/?couponCode=NDJS24M)
 
 
-Çok güzel haberlerim var. Aralık ayının başından beri ummalı bir çalışma içerisindeyim biliyorsunuz. Hazırlamakta olduğum Node.JS eğitim seti artık yayında.
-
 Node.JS'i her yönüyle öğreneceğiniz, sıfırdan başlayan bir set. Zaten setin başlığı da, "Sıfırdan Her Yönüyle Node.JS". Yani, hiç JavaScript bilmeyenler ve hatta bu güne kadar programlama ile hiç ilgilenmemiş olanlar bile yararlanabilirler.
 
-Node.JS'in tüm detaylarını içinde bulunduracak olan bu setin yaklaşık 14 saatlık kısmı hazır. Şuan hazır olan bölümler ile yayınlanmış oldu. Bundan sonraki süreçte eksik konular sürekli hazırlanarak eğitim içeriğine eklenecek.
+Node.JS'in tüm detaylarını içinde bulunduran bu kurs toplamda yaklaşık 21 saatlik videolardan oluşuyor.
 
-[![Node.JS Eğitim Seti Trailer](http://img.youtube.com/vi/If5ZhuSykrw/0.jpg)](http://www.youtube.com/watch?v=If5ZhuSykrw "Node.JS Eğitim Seti Trailer")
 
 # Neleri konuşacağız?
 
