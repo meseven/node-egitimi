@@ -93,7 +93,7 @@ MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile 
 
 :space_invader: Live demo on heroku: [Tıklayın](https://socketio-live-balls.herokuapp.com/)
 
-[![Socket.io live balls](https://s3.amazonaws.com/mseven-general/socketio-live-balls-github-repo.jpg)](https://www.youtube.com/watch?v=x1ZURfr95qM)
+Socket.io live balls: [Tıklayın](https://www.youtube.com/watch?v=x1ZURfr95qM)
 
 
 ## Proje 3:  Socket.IO ve Redis ile Gelişmiş Chat Sistemi
