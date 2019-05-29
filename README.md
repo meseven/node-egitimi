@@ -99,3 +99,6 @@ MongoDB üzerinde çalışma yapmaya başladıktan sonra Express ve MongoDB ile 
 ## Proje 3:  Socket.IO ve Redis ile Gelişmiş Chat Sistemi
 
 **Repo:** [Tıklayın](https://github.com/meseven/thechatfather)
+
+
+**Kursa Git:** [Tıklayın](http://bit.ly/ndjsm)
