@@ -7,7 +7,7 @@ Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle JavaScript & Node.JS"](ht
 **Trailer:** [Tıklayın](https://www.youtube.com/watch?v=If5ZhuSykrw)
 
 
-[![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)](http://bit.ly/ndjsm)
+[![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)](http://bit.ly/nodejs_)
 
 
 Node.JS'i her yönüyle öğreneceğiniz, sıfırdan başlayan bir set. Zaten setin başlığı da, "Sıfırdan Her Yönüyle Node.JS". Yani, hiç JavaScript bilmeyenler ve hatta bu güne kadar programlama ile hiç ilgilenmemiş olanlar bile yararlanabilirler.
