@@ -1,10 +1,8 @@
 # Sıfırdan Her Yönüyle JavaScript & Node.JS Eğitimi
 
-Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle JavaScript & Node.JS"](http://bit.ly/ndjsm) adlı eğitim setinde yazılan kaynak kodları barındıran repodur.
+Udemy üzerinde yayınlanan ["Sıfırdan Her Yönüyle JavaScript & Node.JS"](http://bit.ly/nodejs_) adlı eğitim setinde yazılan kaynak kodları barındıran repodur.
 
-**Kurs Linki:** [Tıklayın](http://bit.ly/ndjsm)
-
-**Kupon Kodu:** MMJS34M
+**Kurs Linki:** [Tıklayın](http://bit.ly/nodejs_)
 
 **Trailer:** [Tıklayın](https://www.youtube.com/watch?v=If5ZhuSykrw)
 
@@ -101,4 +99,4 @@ Socket.io live balls: [Tıklayın](https://www.youtube.com/watch?v=x1ZURfr95qM)
 **Repo:** [Tıklayın](https://github.com/meseven/thechatfather)
 
 
-**Kursa Git:** [Tıklayın](http://bit.ly/ndjsm)
+**Kursa Git:** [Tıklayın](http://bit.ly/nodejs_)
